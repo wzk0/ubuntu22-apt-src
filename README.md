@@ -1,4 +1,4 @@
-# Ubuntu 22.04 LTS Official APT Source for Chinese User
+# Ubuntu 22.04 LTS Official Chinese APT Source.
 
 ```
 #deb cdrom:[Ubuntu 22.04 LTS _Jammy Jellyfish_ - Release amd64 (20220419)]/ jammy main restricted
